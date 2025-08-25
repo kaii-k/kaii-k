@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on cyber projects<br>I’m currently learning java,pyhton,cand c++
+I’m currently working on cyber projects<br>I’m currently learning java,pyhton,c and c++
 
 
 ## 🌐 Socials:
