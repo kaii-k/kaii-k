@@ -1,32 +1,105 @@
-# 💫 About Me:
-Independent vulnerability researcher , bug bounty hunter and the senior at kBxAc <br>I’m currently working on the research paper
+# kaii-k
 
+<p align="center">
+  <b>Independent Vulnerability Researcher | Bug Bounty Hunter</b>
+  <br>
+  Senior Member at <a href="https://kbxac.xyz/"><b>kBxAc</b></a>
+</p>
 
-##  Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kaii02ctf) 
-
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kaii-k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kaii-k&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaii-k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-###Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  Currently conducting security research and working on a research paper.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kaii-k&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🛡️Team
+## About Me
+
+- Independent vulnerability researcher and bug bounty hunter.
+- Senior member of [kBxAc](https://kbxac.xyz/).
+- Currently working on cybersecurity research and a research paper.
+- Interested in vulnerability discovery, application security, and responsible disclosure.
+
+---
+
+## Team
 
 <p align="center">
   <a href="https://kbxac.xyz/">
-    <img src="https://img.shields.io/badge/TEAM-kBxAc-111111?style=for-the-badge&logo=hackthebox&logoColor=white" alt="kBxAc Team">
+    <img src="https://img.shields.io/badge/TEAM-kBxAc-181717?style=for-the-badge&logo=github&logoColor=white" alt="kBxAc Team">
   </a>
 </p>
 
 <p align="center">
-  Proud to be part of <a href="https://kbxac.xyz/"><b>kBxAc</b></a>.
+  <b>Senior Member — kBxAc</b>
+  <br>
+  <a href="https://kbxac.xyz/">Official Team Website</a>
+</p>
+
+---
+
+## Socials
+
+<p align="left">
+  <a href="https://medium.com/@kaii02ctf">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
+
+---
+
+## Technical Skills
+
+**Programming Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+
+**Scripting and Tools**
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaii-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics">
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=kaii-k&theme=dark&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaii-k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages">
+</p>
+
+---
+
+## Random Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=kaii-k&icon=0&color=9" alt="Profile Views">
+</p>
+
+<p align="center">
+  <sub>Always learning. Always researching.</sub>
 </p>
